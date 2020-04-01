@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="884066c3-122f-4391-9076-6fb5bc2ef544" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XiCeVNHNu4NTSqqUNO3tiJJbyp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.WhiskyTrackerApplication">
+    <configuration name="WhiskyTrackerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplication" />
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhiskyTrackerApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeclan.example.WhiskyTracker" />
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WhiskyTrackerApplication" />
+        <item itemvalue="JUnit.WhiskyTrackerApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="884066c3-122f-4391-9076-6fb5bc2ef544" name="Default Changelist" comment="" />
+      <created>1581519623187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581519623187</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1104" y="511" key="#Project_Structure" timestamp="1585774969364">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state x="1104" y="511" key="#Project_Structure/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585774969364" />
+    <state width="1545" height="506" key="GridCell.Tab.0.bottom" timestamp="1585780284078">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="2966" height="506" key="GridCell.Tab.0.bottom/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585775224690" />
+    <state width="1238" height="171" key="GridCell.Tab.0.bottom/0.23.1280.697@0.23.1280.697" timestamp="1585754493916" />
+    <state width="1238" height="171" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1581519994651" />
+    <state width="1545" height="506" key="GridCell.Tab.0.bottom/0.23.3008.1669/-1680.347.1680.975@0.23.3008.1669" timestamp="1585780284078" />
+    <state width="1545" height="506" key="GridCell.Tab.0.center" timestamp="1585780284077">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="2966" height="506" key="GridCell.Tab.0.center/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585775224688" />
+    <state width="1238" height="171" key="GridCell.Tab.0.center/0.23.1280.697@0.23.1280.697" timestamp="1585754493915" />
+    <state width="1238" height="171" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1581519994649" />
+    <state width="1545" height="506" key="GridCell.Tab.0.center/0.23.3008.1669/-1680.347.1680.975@0.23.3008.1669" timestamp="1585780284077" />
+    <state width="1545" height="506" key="GridCell.Tab.0.left" timestamp="1585780284076">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="2966" height="506" key="GridCell.Tab.0.left/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585775224687" />
+    <state width="1238" height="171" key="GridCell.Tab.0.left/0.23.1280.697@0.23.1280.697" timestamp="1585754493913" />
+    <state width="1238" height="171" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1581519994648" />
+    <state width="1545" height="506" key="GridCell.Tab.0.left/0.23.3008.1669/-1680.347.1680.975@0.23.3008.1669" timestamp="1585780284076" />
+    <state width="1545" height="506" key="GridCell.Tab.0.right" timestamp="1585780284077">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="2966" height="506" key="GridCell.Tab.0.right/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585775224689" />
+    <state width="1238" height="171" key="GridCell.Tab.0.right/0.23.1280.697@0.23.1280.697" timestamp="1585754493915" />
+    <state width="1238" height="171" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1581519994650" />
+    <state width="1545" height="506" key="GridCell.Tab.0.right/0.23.3008.1669/-1680.347.1680.975@0.23.3008.1669" timestamp="1585780284077" />
+    <state x="1005" y="485" key="SettingsEditor" timestamp="1585774881866">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state x="1005" y="485" key="SettingsEditor/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585774881866" />
+    <state x="292" y="676" key="com.intellij.ide.util.TipDialog" timestamp="1585774818978">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state x="292" y="676" key="com.intellij.ide.util.TipDialog/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585774818978" />
+  </component>
+</project>
